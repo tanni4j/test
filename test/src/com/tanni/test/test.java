@@ -1,6 +1,8 @@
 package com.tanni.test;
 
 public class test {
-
-Systen.out.print("sssss");
+public static void main(String[] args) {
+	
+	System.out.print("sssss");
+}
 }
